@@ -1,0 +1,19 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["1044285380649824257"],
+        "ACTIVITY_TEXT": "AhmetNetwork",
+        "GUILD_ID": "1045714911277355078",
+        "VOICE_CHANNEL": "1048337103924240434",
+        "MIN_STAFF_ROLE": "1048482579147411456"
+    },
+    "FILES": {
+        "WELCOME": "default_files/Welcome.mp3",
+        "STAFF": "default_files/Kayıt.mp3"
+    },
+    "TOKEN": ""
+
+
+
+}
+
+
